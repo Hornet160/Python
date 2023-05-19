@@ -5,9 +5,9 @@ import random
 # Split string method
 names_string = input("Give me everybody's names, separated by a comma. ")
 names = names_string.split(", ")
-# 🚨 Don't change the code above 👆
+# .................................
 
-#Write your code below this line 👇
+#..............................
 # print(names)
 # length_of_list=len(names)
 random_name_index=random.randint(0,len(names)-1)
@@ -20,9 +20,9 @@ import random
 # Split string method
 names_string = input("Give me everybody's names, separated by a comma. ")
 names = names_string.split(", ")
-# 🚨 Don't change the code above 👆
+# ...........................
 
-#Write your code below this line 👇
+#..........................
 # get the total number of items in the list
 length_of_list=len(names)
 # Generate random numbers between 0 and the last index
