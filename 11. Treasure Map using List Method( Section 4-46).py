@@ -1,4 +1,4 @@
-# First number is column, Second number is row. And this is what makes it a little bit difficult
+# The inputed First number is column, Second number is row. And this is what makes it a little bit difficult
 # ................
 row1 = ["⬜️","️⬜️","️⬜️"]
 row2 = ["⬜️","⬜️","️⬜️"]
